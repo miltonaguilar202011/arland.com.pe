@@ -2,6 +2,7 @@ package arland.com.pe.entity;
 
 public class AutomovilElectricidadEntity extends VehiculoAutomovilBase 
 { 
+ //BRANCH 20200
   public AutomovilElectricidadEntity(String modelo, String 
     color, int potencia, double espacio) 
   {
